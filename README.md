@@ -21,10 +21,10 @@ The User model represents a user of the E-commerce application. It has the follo
 The Product model represents a product that is sold through the E-commerce application. It has the following properties:
 - **id (Integer):** the unique identifier for the product
 - **name (String):** the name of the product
-- price (Integer): the price of the product
-description (String): a description of the product
-category (String): the category that the product belongs to
-brand (String): the brand of the product
+- **price (Integer):** the price of the product
+- **description (String):** a description of the product
+- **category (String):** the category that the product belongs to
+- **brand (String):** the brand of the product
 
 ### Order
 The Order model represents an order that has been placed through the E-commerce application. It has the following properties:
